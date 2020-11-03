@@ -65,6 +65,7 @@ const HomePage = ({ data: { page, posts } }) => (
       posts={posts.edges.map(post => ({
         ...post.node,
         ...post.node.frontmatter,
+        ...post.node.fields
       }))}
     />
   </Layout>
