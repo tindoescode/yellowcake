@@ -3,6 +3,7 @@ import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
 
+import { FacebookProvider, Comments } from 'react-facebook'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
@@ -13,6 +14,7 @@ export const SinglePostTemplate = ({
   body,
   nextPostURL,
   prevPostURL,
+  slug,
   categories = []
 }) => (
   <main>
@@ -84,6 +86,13 @@ export const SinglePostTemplate = ({
         </div>
       </div>
     </article>
+    <section className="section skinny light">
+      <div className="container">
+        <FacebookProvider appId="648530972698525">
+          <Comments width="100%" href={slug} />
+        </FacebookProvider>
+      </div>
+    </section>
   </main>
 )
 
@@ -126,6 +135,7 @@ export const pageQuery = graphql`
         categories {
           category
         }
+        slug
       }
     }
 
