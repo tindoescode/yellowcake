@@ -3,7 +3,7 @@ template: SinglePost
 title: ENFP - The Inspirer - Người truyền cảm hứng
 status: Published
 date: 2020-11-03
-featuredImage: https://ucarecdn.com/dd1cd5dc-2913-4bb7-9723-b001759665ec/
+featuredImage: ""
 excerpt: Các ENFP rất thân thiện, nhiệt tình, thông minh và có tố chất. Họ coi
   thế giới này đầy ắp những cơ hội, và họ luôn cảm thấy say mê và hứng thú với
   mọi thứ. Sự hăng hái nhiệt tình của họ giúp họ có khả năng truyền cảm hứng và
@@ -25,7 +25,7 @@ meta:
 
   title: ENFP - The Inspirer - Người truyền cảm hứng
 ---
-![](https://ucarecdn.com/dd494f25-8e96-42ab-9ce7-dcd2465aa3f5/)
+![](https://ucarecdn.com/2a0838c3-41d4-479e-b8a9-98cd6fa0644b/)
 
 Các ENFP rất thân thiện, nhiệt tình, thông minh và có tố chất. Họ coi thế giới này đầy ắp những cơ hội, và họ luôn cảm thấy say mê và hứng thú với mọi thứ. Sự hăng hái nhiệt tình của họ giúp họ có khả năng truyền cảm hứng và động lực cho người khác hơn bất kì loại tính cách nào. Họ có khả năng thuyết phục mọi người về bất cứ điều gì. Họ yêu cuộc sống và nhìn nhận nó như là một món quà đặc biệt đối với họ, và họ luôn sống hết mình để xứng đáng với món quà đó.
 
