@@ -14,6 +14,21 @@ excerpt: >-
 
 
   Hầu hết đàn ông đều bỏ quên sở thích ảo thuật của họ khi lớn lên, mặc dù đó không nhất thiết phải là niềm say mê với ảo thuật hay mơ ước được trở thành một ảo thuật gia. Nhưng bạn biết đấy, ngay cả hàng ngũ ảo thuật gia chuyên nghiệp cũng do nam giới thống trị.
+categories:
+  - category: Nguyên mẫu Nam tính
+meta:
+  description: >+
+    Việc phái mạnh bị thu hút bởi ma thuật không đơn giản chỉ là anh ta có hứng
+    thú với màn ảo thuật lôi một con thỏ ra khỏi cái mũ hay trầm trồ trước trò
+    xẻ đôi một cô gái. Điều tôi muốn nói ở đây mang một ứng dụng rộng rãi hơn.
+    Cụ thể, sự thu hút trước ma thuật của đàn ông bắt nguồn từ năng lực đại diện
+    cho Magician (Pháp sư) - sức mạnh đến từ việc tinh thông tri thức và khả
+    năng sử dụng tri thức đó để điều khiển một số yếu tố và tạo ra kết quả mong
+    muốn. Khao khát khai thác và sở hữu sức mạnh đó chính là nguồn năng lượng
+    thúc đẩy nguyên mẫu Magician, một nguồn năng lượng mà mọi người đàn ông nên
+    tìm kiếm.
+
+  title: BÀI 6 - NGUYÊN MẪU MAGICIAN CỦA NAM TÍNH TRƯỞNG THÀNH
 ---
 ### **BÀI 6 - NGUYÊN MẪU MAGICIAN CỦA NAM TÍNH TRƯỞNG THÀNH**
 
