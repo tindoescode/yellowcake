@@ -2,11 +2,35 @@ import React from 'react'
 import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
+import PostSection from '../components/PostSection'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 
+/**
+ * Filter posts by date. Feature dates will be fitered
+ * When used, make sure you run a cronejob each day to show schaduled content. See docs
+ *
+ * @param {posts} object
+ */
+export const byDate = posts => {
+  const now = Date.now()
+  return posts.filter(post => Date.parse(post.date) <= now)
+}
+
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
+export const HomePageTemplate = ({ 
+  title, 
+  subtitle, 
+  featuredImage, 
+  body, 
+  posts = []
+}) => {
+  let filteredPosts =
+  posts && !!posts.length
+    ? byDate(posts)
+    : []
+
+  return (
   <main className="Home">
     <PageHeader
       large
@@ -14,6 +38,14 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
+    {!!posts.length && (
+      <section className="section">
+        <div className="container">
+          <h1><span>☠</span>️ Bài viết mới</h1>
+          <PostSection posts={filteredPosts} />
+        </div>
+      </section>
+    )}
 
     <section className="section">
       <div className="container">
@@ -21,12 +53,20 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       </div>
     </section>
   </main>
-)
+)}
 
 // Export Default HomePage for front-end
-const HomePage = ({ data: { page } }) => (
+const HomePage = ({ data: { page, posts } }) => (
   <Layout meta={page.frontmatter.meta || false}>
-    <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
+    <HomePageTemplate 
+      {...page} 
+      {...page.frontmatter} 
+      body={page.html} 
+      posts={posts.edges.map(post => ({
+        ...post.node,
+        ...post.node.frontmatter,
+      }))}
+    />
   </Layout>
 )
 
@@ -45,6 +85,28 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
+      }
+    }
+    posts: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "posts" } } }
+      sort: { order: DESC, fields: [frontmatter___date] }
+      limit: 10
+    ) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            date
+            categories {
+              category
+            }
+            featuredImage
+          }
+        }
       }
     }
   }
