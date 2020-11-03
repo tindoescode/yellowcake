@@ -11,6 +11,8 @@ excerpt: >
   năng tiếp thu một lượng lớn những thông tin khách quan, và cuối cùng là sự
   nhanh nhạy và tính quyết đoán khi đưa ra phán xét. Họ là những người luôn
   “chịu trách nhiệm”.
+categories:
+  - category: Trắc nghiệm MBTI
 meta:
   description: >
     ENTJ là những nhà lãnh đạo bẩm sinh. Thế giới của họ tràn ngập những tiềm
