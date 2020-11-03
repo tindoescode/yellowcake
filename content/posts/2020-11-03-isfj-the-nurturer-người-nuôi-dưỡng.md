@@ -3,7 +3,7 @@ template: SinglePost
 title: ISFJ - The Nurturer - Người nuôi dưỡng
 status: Published
 date: 2020-11-03
-featuredImage: https://ucarecdn.com/a20127c8-84d5-4133-9fdf-f4d4549f6f39/
+featuredImage: https://ucarecdn.com/4620df55-7cec-41ed-9b99-6d5f93f67452/
 excerpt: >
   ISFJ sống trong một thế giới ấm áp và đầy tình cảm. Họ thật sự rất ấm áp và có
   tấm lòng nhân hậu, và luôn tin vào những điều tốt đẹp nhất của người khác. Họ
@@ -23,7 +23,7 @@ meta:
     người khác, khả năng khai thác những điều tốt nhất của mọi người, xuất phát
     từ niềm tin vững chắc vào những điều tốt đẹp nhất.
 ---
-![](https://ucarecdn.com/4cc1dc77-0257-4159-b365-daa557337926/)
+![](https://ucarecdn.com/99772b19-9247-4133-a5b4-2589f1bc2621/)
 
 ISFJ sống trong một thế giới ấm áp và đầy tình cảm. Họ thật sự rất ấm áp và có tấm lòng nhân hậu, và luôn tin vào những điều tốt đẹp nhất của người khác. Họ trân trọng sự hòa hợp và hợp tác, và thường rất nhạy cảm với cảm giác của mọi người. Người ta đánh giá cao ISFJ ở sự ân cần và quan tâm tới người khác, khả năng khai thác những điều tốt nhất của mọi người, xuất phát từ niềm tin vững chắc vào những điều tốt đẹp nhất.
 
