@@ -7,6 +7,13 @@ featuredImage: https://ucarecdn.com/9f7ed59c-2bc7-45c2-9da7-9a4f67ce47d1/
 excerpt: Đây là phần thứ sáu và là phần cuối cùng của series về các nguyên mẫu
   của nam tính trưởng thành dựa trên cuốn sách “King, Warrior, Magician, Lover”
   của Robert Moore và Douglas Gillette.
+categories:
+  - category: Nguyên mẫu Nam tính
+meta:
+  title: BÀI 7 - NGUYÊN MẪU NHÀ VUA CỦA NAM TÍNH TRƯỞNG THÀNH
+  description: Đây là phần thứ sáu và là phần cuối cùng của series về các nguyên
+    mẫu của nam tính trưởng thành dựa trên cuốn sách “King, Warrior, Magician,
+    Lover” của Robert Moore và Douglas Gillette.
 ---
 [![Image may contain: 4 people, text](https://scontent.fsgn5-5.fna.fbcdn.net/v/t1.0-9/122299948_2805949759689908_5546954940760283026_o.jpg?_nc_cat=100&ccb=2&_nc_sid=825194&_nc_ohc=7OBPgdIfBSsAX9-yUfD&_nc_ht=scontent.fsgn5-5.fna&oh=541226979f4c788c5f4c526e034157a4&oe=5FC55374)](https://www.facebook.com/photo/?fbid=2805949756356575&set=gm.360355942076092&__cft__[0]=AZXU1Qv8cfxP6FobD3dD3lgNwerxz_zNowT9uTB2SV6MayXVYqG9ul9EI1fx1mVK_0mFvSHczRAOYoHDt-ni5PMv3ycxcN1kxcCqmIcssYl4dB2180Y9uncnpqFdpvXMmeByA0EuE0_E0JxNhETPyNCQAStXkIwOF-fd_9Z4QlanVcNCyTKoUW4STXkuWwG-ebkq8EJKpmLeDj9UpjhJdl3e&__tn__=EH-R)
 
