@@ -6,7 +6,7 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Bản quyền bởi mCoaching {new Date().getFullYear()} All rights reserved.
+          © Bản quyền bởi mCoaching {new Date().getFullYear()}
         </span>
       </div>
     </footer>
