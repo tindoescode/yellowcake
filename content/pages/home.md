@@ -22,11 +22,11 @@ mCoaching là một dự án được mình ấp ủ rất lâu, với mục ti�
 
 ## Các hoạt động chính của chúng tôi
 
-- Trại Nguyên mẫu Nam tính
-- Fanpage
-- Group
-- Youtube Channel
-- Blog
+* [Trại 01 Nguyên mẫu Nam tính](https://www.facebook.com/groups/traiso01)
+* [Fanpage](https://www.facebook.com/nguyenmaunamtinh.mcoaching)
+* [Group](https://www.facebook.com/groups/mcoaching)
+* [Youtube Channel](https://www.youtube.com/user/Thiensudohoi)
+* Blog
 
 ## Giới thiệu về blog
 
