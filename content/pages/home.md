@@ -3,7 +3,7 @@ template: HomePage
 slug: ""
 title: mCoaching
 featuredImage: https://ucarecdn.com/557014bb-16cf-4e76-94c0-1e38b102d562/
-subtitle: Huấn luyện Phát triển Cá nhân
+subtitle: "* Huấn luyện Phát triển Cá nhân"
 meta:
   description: mCoaching là một dự án với mục tiêu giúp đỡ đàn ông Việt Nam từ 16
     đến 30 tuổi tìm lại được chính bản thân, trả lời được cho câu hỏi "Tôi là
@@ -22,15 +22,11 @@ mCoaching là một dự án được mình ấp ủ rất lâu, với mục ti�
 
 ## Các hoạt động chính của chúng tôi
 
-\- Trại Nguyên mẫu Nam tính
-
-\- Fanpage
-
-\- Group
-
-\- Youtube Channel
-
-\- Blog
+* [Trại 01 Nguyên mẫu Nam tính](https://www.facebook.com/groups/traiso01)
+* [Fanpage](https://www.facebook.com/nguyenmaunamtinh.mcoaching)
+* [Group](https://www.facebook.com/groups/mcoaching)
+* [Youtube Channel](https://www.youtube.com/user/Thiensudohoi)
+* Blog
 
 ## Giới thiệu về blog
 
