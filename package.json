@@ -22,7 +22,7 @@
     "gatsby-plugin-react-helmet": "^3.1.13",
     "gatsby-plugin-sass": "^2.1.20",
     "gatsby-plugin-sharp": "^2.2.36",
-    "gatsby-plugin-sitemap": "^2.2.19",
+    "gatsby-plugin-sitemap": "^2.5.0",
     "gatsby-remark-images": "^3.1.28",
     "gatsby-remark-relative-images": "^0.2.3",
     "gatsby-remark-responsive-iframe": "^2.2.25",
