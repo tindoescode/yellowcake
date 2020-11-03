@@ -3,30 +3,31 @@ template: HomePage
 slug: ""
 title: mCoaching
 featuredImage: https://ucarecdn.com/8b7b7d98-d96e-4e48-8a09-10ee820e09d8/
-subtitle: Huấn luyện phát triển cá nhân
+subtitle: Huấn luyện Phát triển Cá nhân
 meta:
-  description: Giới thiệu về mCoaching, phần này sẽ hiện dưới tên trang khi ai đó
-    search google
-  title: mCoaching - Huấn luyện phát triển cá nhân
+  description: mCoaching là một dự án với mục tiêu giúp đỡ đàn ông Việt Nam từ 16
+    đến 30 tuổi tìm lại được chính bản thân, trả lời được cho câu hỏi "Tôi là
+    ai?!", hiểu về bản thân, định hướng phát triển cá nhân cũng như sự nghiệp,
+    hướng đến sự hạnh phúc thông qua các Trại huấn luyện, các giờ Tham vấn 1-1,
+    các bài viết.
+  title: mCoaching - Huấn luyện Phát triển Cá nhân
 ---
 ## mCoaching là gì
 
-Mình là Mĩ, coaching là một dự án abc được Mĩ tâm đắc trong những năm 2x tuổi, lần 2 là 2x tuổi, với mục tiêu giúp đỡ nam giới tìm lại được chính bản thân, chính hình mẫu mà họ nên trở thành...
+Mình là Mĩ, mCoaching là một dự án được mình ấp ủ rất lâu, với mục tiêu giúp đỡ đàn ông Việt Nam từ 16 đến 30 tuổi tìm lại được chính bản thân, trả lời được cho câu hỏi "Tôi là ai?!", hiểu về bản thân, định hướng phát triển cá nhân cũng như sự nghiệp, hướng đến sự hạnh phúc thông qua các Trại huấn luyện, các giờ Tham vấn 1-1, các bài viết.
 
-## Các dự án phi lợi nhuận của chúng tôi
+## Các hoạt động chính của chúng tôi
 
-\- Trại nguyên mẫu nam tính
+\- Trại Nguyên mẫu Nam tính
 
 \- Fanpage
 
 \- Group
 
-\- Livestream hằng tuần
+\- Youtube Channel
 
 \- Blog
 
 ## Giới thiệu về blog
 
-Blog của chúng tôi có mục tiêu abc
-
-Bài đăng của chúng tôi xyz
+Blog mcoaching.wiki là kênh truyền thông chính thức của mCoaching trong việc giới thiệu, lan toả những giá trị của mCoaching muốn hướng tới.
