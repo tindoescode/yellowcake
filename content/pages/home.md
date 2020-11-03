@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: mCoaching
-featuredImage: https://ucarecdn.com/6aeae9fa-299c-4693-a742-855eda84e0ae/
+featuredImage: https://ucarecdn.com/557014bb-16cf-4e76-94c0-1e38b102d562/
 subtitle: Huấn luyện Phát triển Cá nhân
 meta:
   description: mCoaching là một dự án với mục tiêu giúp đỡ đàn ông Việt Nam từ 16
