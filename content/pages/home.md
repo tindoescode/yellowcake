@@ -34,4 +34,4 @@ mCoaching là một dự án được mình ấp ủ rất lâu, với mục ti�
 
 ## Giới thiệu về blog
 
-Blog mcoaching.wiki là kênh truyền thông chính thức của mCoaching trong việc giới thiệu, lan toả những giá trị của mCoaching muốn hướng tới.
+Blog mcoaching.wiki là kênh truyền thông chính thức của mCoaching trong việc giới thiệu, lan toả những giá trị mà mCoaching muốn hướng tới.
