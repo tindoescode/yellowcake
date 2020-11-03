@@ -1,30 +1,32 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: mCoaching
+featuredImage: https://ucarecdn.com/8b7b7d98-d96e-4e48-8a09-10ee820e09d8/
+subtitle: Huấn luyện phát triển cá nhân
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Giới thiệu về mCoaching, phần này sẽ hiện dưới tên trang khi ai đó
+    search google
+  title: mCoaching - Huấn luyện phát triển cá nhân
 ---
+## mCoaching là gì
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Mình là Mĩ, coaching là một dự án abc được Mĩ tâm đắc trong những năm 2x tuổi, lần 2 là 2x tuổi, với mục tiêu giúp đỡ nam giới tìm lại được chính bản thân, chính hình mẫu mà họ nên trở thành...
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+## Các dự án phi lợi nhuận của chúng tôi
 
-# Features
+\- Trại nguyên mẫu nam tính
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+\- Fanpage
 
-## Get started
+\- Group
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+\- Livestream hằng tuần
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+\- Blog
+
+## Giới thiệu về blog
+
+Blog của chúng tôi có mục tiêu abc
+
+Bài đăng của chúng tôi xyz
