@@ -26,6 +26,8 @@ meta:
     ông có tinh thần bất khuất. Nhật Bản cũng có những chiến binh samurai gan
     góc với lòng dũng cảm kiên cường, không bao giờ sợ hãi trước cái chết.
 ---
+![](https://ucarecdn.com/657d98c3-de5d-4bf3-aa61-f89d9e0d52e4/)
+
 Mỗi nền văn minh vĩ đại đều gắn liền với truyền thống chiến đấu và những chiến binh huyền thoại đi kèm. Kinh Cựu Ước kể rằng, người Sparta sinh sống ở vùng Địa Trung Hải có lẽ có truyền thống chiến binh huyền thoại nhất trong các nền văn minh cổ đại. Ngay từ khi sinh ra, xã hội Spartan đã nuôi dưỡng và đào tạo các bé trai trở thành những chiến binh, và quá trình đào tạo khắt khe đó đã tạo nên những người đàn ông như Leonidas và 300 người đàn ông có tinh thần bất khuất. Nhật Bản cũng có những chiến binh samurai gan góc với lòng dũng cảm kiên cường, không bao giờ sợ hãi trước cái chết.
 
 Ngày nay, nguyên mẫu Chiến binh vẫn tồn tại trong sự tôn kính của chúng ta đối với những người hoạt động trong quân đội cũng như trong sách truyện và phim ảnh hiện đại. William Wallace trong phim “Braveheart” hay General Maximus trong phim “Gladiator” chính là hiện thân của nguyên mẫu Chiến binh.
