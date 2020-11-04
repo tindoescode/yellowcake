@@ -23,7 +23,8 @@ export const HomePageTemplate = ({
   subtitle, 
   featuredImage, 
   body, 
-  posts = []
+  posts = [],
+  section2
 }) => {
   let filteredPosts =
   posts && !!posts.length
@@ -42,6 +43,12 @@ export const HomePageTemplate = ({
     <section className="section">
       <div className="container">
         <Content source={body} />
+      </div>
+    </section>
+
+    <section className="section">
+      <div className="container">
+        <Content source={section2} />
       </div>
     </section>
 
@@ -104,6 +111,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             date
+            section2
             categories {
               category
             }
