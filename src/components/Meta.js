@@ -48,7 +48,7 @@ export default class Meta extends Component {
         {twitterCreatorAccount && (
           <meta name="twitter:creator" content={twitterCreatorAccount} />
         )}
-        {noindex && <meta name="robots" content="noindex" />}
+        {/* {noindex && <meta name="robots" content="noindex" />} */}
         {canonicalLink && <link rel="canonical" href={canonicalLink} />}
 
         <meta property="og:locale" content="en_US" />
