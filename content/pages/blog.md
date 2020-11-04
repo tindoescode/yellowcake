@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: blog
 title: mCoaching
-featuredImage: https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/
+featuredImage: https://ucarecdn.com/f07329ae-8896-4115-9706-499426f94568/
 subtitle: >+
   mCoaching là một dự án được mình ấp ủ rất lâu, với mục tiêu giúp đỡ đàn ông
   Việt Nam từ 16 đến 30 tuổi tìm lại được chính bản thân, trả lời được cho câu
