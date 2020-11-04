@@ -24,7 +24,7 @@ export const HomePageTemplate = ({
   featuredImage, 
   body, 
   posts = [],
-  section2
+  section2,
 }) => {
   let filteredPosts =
   posts && !!posts.length
@@ -95,6 +95,7 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
+        section2
       }
     }
     posts: allMarkdownRemark(
@@ -111,7 +112,6 @@ export const pageQuery = graphql`
           frontmatter {
             title
             date
-            section2
             categories {
               category
             }

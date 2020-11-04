@@ -3,7 +3,7 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-# display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
+display_url: https://mcoaching.wiki # This url will display in the top-right of the CMS
 media_library:
   name: uploadcare
   config:
@@ -240,6 +240,7 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
+                  default: false,
                 }
 
   - name: infoPages
