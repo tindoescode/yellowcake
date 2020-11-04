@@ -90,6 +90,7 @@ export const SinglePostTemplate = ({
       <div className="container">
         <FacebookProvider appId="648530972698525">
           <Comments width="100%" href={slug} />
+          {console.log(slug)}
         </FacebookProvider>
       </div>
     </section>
