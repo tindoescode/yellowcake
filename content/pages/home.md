@@ -9,9 +9,11 @@ subtitle: >-
 
   mCoaching là một dự án được mình ấp ủ rất lâu, với mục tiêu giúp đỡ đàn ông Việt Nam từ 16 đến 30 tuổi tìm lại được chính bản thân, trả lời được cho câu hỏi "Tôi là ai?!", hiểu về bản thân, định hướng phát triển cá nhân cũng như sự nghiệp, hướng đến sự hạnh phúc thông qua các Trại huấn luyện, các giờ Tham vấn 1-1, các bài viết.
 section2: >-
-  ## You can use videos, images and text.
+  ## We can
+
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+accordion: []
 meta:
   description: mCoaching là một dự án với mục tiêu giúp đỡ đàn ông Việt Nam từ 16
     đến 30 tuổi tìm lại được chính bản thân, trả lời được cho câu hỏi "Tôi là
