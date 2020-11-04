@@ -1,4 +1,4 @@
-const postcssPresetEnv = require('postcss-preset-env')
+// const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
@@ -20,27 +20,29 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-offline',
       options: {
-        runtimeCaching: [
-          {
-            // Use cacheFirst since these don't need to be revalidated (same RegExp
-            // and same reason as above)
-            urlPattern: /(\.js$|\.css$|static\/)/,
-            handler: `cacheFirst`
-          },
-          {
-            // Add runtime caching of various other page resources
-            urlPattern: /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
-            handler: `staleWhileRevalidate`
-          },
-          {
-            // uploadcare
-            urlPattern: /^https:\/\/ucarecdn.com\/[-a-zA-Z0-9@:%_\+.~#?&//=]*?\/10x\//,
-            handler: `staleWhileRevalidate`
+        workboxConfig: {
+            runtimeCaching: [
+              {
+                // Use cacheFirst since these don't need to be revalidated (same RegExp
+                // and same reason as above)
+                urlPattern: /(\.js$|\.css$|static\/)/,
+                handler: `CacheFirst`
+              },
+              {
+                // Add runtime caching of various other page resources
+                urlPattern: /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
+                handler: `StaleWhileRevalidate`
+              },
+              {
+                // uploadcare
+                urlPattern: /^https:\/\/ucarecdn.com\/[-a-zA-Z0-9@:%_\+.~#?&//=]*?\/10x\//,
+                handler: `StaleWhileRevalidate`
+              }
+            ],
+            skipWaiting: true,
+            clientsClaim: true
           }
-        ],
-        skipWaiting: true,
-        clientsClaim: true
-      }
+        }
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -95,27 +97,17 @@ module.exports = {
         ]
       }
     },
-
+    {
+      resolve: `gatsby-plugin-postcss`,
+      // options: {
+      //   postCssPlugins: [
+          // postcssPresetEnv()
+        // ]
+      // }
+    },
     // css (replace with gatsby-plugin-sass for v2)
     {
       resolve: `gatsby-plugin-sass`,
-      options: {
-        postCssPlugins: [
-          postcssPresetEnv({
-            browsers: '> 0.5%, last 2 versions, ie 11'
-          })
-        ]
-      }
-    },
-    {
-      resolve: `gatsby-plugin-postcss`,
-      options: {
-        postCssPlugins: [
-          require(`postcss-preset-env`)({
-            browsers: '> 0.5%, last 2 versions, ie 11'
-          })
-        ]
-      }
     },
     {
       resolve: 'gatsby-plugin-nprogress',
