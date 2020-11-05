@@ -13,7 +13,7 @@ excerpt: >
 
   trước khi đọc,
 ---
-[![Image may contain: 4 people, text that says 'NGUYÊN MÃU NAM TÍNH BÀI 2: TU "BOY" DEN "MAN" ARCHETYPE (P2) -MCOACHING'](https://scontent.fsgn5-6.fna.fbcdn.net/v/t1.0-9/121164837_3565500570137011_2811563382577530642_o.jpg?_nc_cat=109&ccb=2&_nc_sid=825194&_nc_ohc=AIMijOQ8dngAX9rUR5_&_nc_ht=scontent.fsgn5-6.fna&oh=f0a5bcdd05ff8f88002bf747a19f1df7&oe=5FC7E316)](https://www.facebook.com/photo/?fbid=3565500566803678&set=gm.347097273401959&__cft__[0]=AZWAFlkleSzVw-_iSYyHi-9fjzt__j5BGdz2Rjgt49k3Rbn4l0czTDHbmhIgrHGyliQqnrfDlzXBmLaHswOPkeRzTGqoTXXwOSNaBrA5qHUKSoub4RrijcR9l5gMYFfQgOavfDzhMTJtJOhuxqeUoEH5&__tn__=EH-R)
+![](https://ucarecdn.com/0181518a-3da2-4ae6-bf60-5c55517c93dd/)
 
 **3. Oedipal Child**
 
@@ -46,8 +46,9 @@ Cái bóng thụ động của nguyên mẫu Oedipal Child là Dreamer. Thay vì
 
 Một người đàn ông đã tích hợp thành công Đứa trẻ Oedipal vào tâm hồn của mình hiểu phần hiền lành của một quý ông. Anh ấy ấm áp, thậm chí “ngọt ngào” với người khác, và anh ấy có thể sống nội tâm và tinh thần trong khi vẫn giữ được sự thực tế. Anh ấy không ngại khai thác năng lượng “nữ tính”, nhưng anh ấy cũng không bị nó chi phối. Anh ấy yêu mẹ của mình, và đã học được nhiều điều từ bà, nhưng anh ấy quyết định là người đàn ông tự lập.
 
-**\
-4. The Hero**
+\*\*\
+
+4. The Hero\*\*
 
 Hãy nhớ lại khi bạn còn là một thiếu niên. Hãy nhớ rằng cảm giác mở rộng sự tự lập? Từng chút một, bạn bắt đầu ngày càng ít phụ thuộc vào cha mẹ cho những nhu cầu cơ bản của mình. Bạn đòi hỏi nhiều quyền tự do hơn và để cha mẹ bạn không còn phàn nàn về bạn.
 
