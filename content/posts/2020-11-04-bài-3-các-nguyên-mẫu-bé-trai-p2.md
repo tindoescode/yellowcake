@@ -12,6 +12,8 @@ excerpt: >
   Sau đó đọc phần một ở đây: https://www.facebook.com/.../permalink/345169390261414/
 
   trước khi đọc,
+categories:
+  - category: Nguyên mẫu Nam tính
 ---
 ![](https://ucarecdn.com/0181518a-3da2-4ae6-bf60-5c55517c93dd/)
 
