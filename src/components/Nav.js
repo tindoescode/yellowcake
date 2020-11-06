@@ -71,7 +71,7 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/">Home</NavLink>
+            <NavLink to="/">Trang chủ</NavLink>
             {/* <NavLink to="/components/">Components</NavLink> */}
             <div
               className={`Nav--Group ${
@@ -92,10 +92,10 @@ export class Navigation extends Component {
                 aria-label="Navigation"
                 role="button"
               >
-                Blog
+                Blog <span role="img" aria-label="star">✨</span>
                 <div className="Nav--GroupLinks">
                   <NavLink to="/blog/" className="Nav--GroupLink">
-                    All Posts
+                    Tất cả bài viết
                   </NavLink>
                   {subNav.posts.map((link, index) => (
                     <NavLink
@@ -110,7 +110,7 @@ export class Navigation extends Component {
               </span>
             </div>
             {/* <NavLink to="/default/">Default</NavLink> */}
-            <NavLink to="/contact/">Contact</NavLink>
+            <NavLink to="/contact/">Liên hệ</NavLink>
             <a className="NavLink" rel="noreferrer" target="_blank" title="Go to mCoaching group" href="https://www.facebook.com/groups/mcoaching">Group</a>
             <a className="NavLink" rel="noreferrer" target="_blank" title="Go to mCoaching fanpage" href="https://www.facebook.com/nguyenmaunamtinh.mcoaching">Fanpage</a>
           </div>
