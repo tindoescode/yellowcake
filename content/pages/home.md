@@ -12,7 +12,7 @@ section2: >-
   ## Giới thiệu về Hành trình Nguyên mẫu Nam tính
 
 
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/bgVfwYz3CLo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="900" height="506" src="https://www.youtube.com/embed/UnBr306y-xo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 accordion: []
 meta:
   description: 'mCoaching là một dự án với mục tiêu giúp đỡ đàn ông Việt Nam từ 16
