@@ -21,7 +21,7 @@ meta:
     đến 30 tuổi tìm lại được chính bản thân, trả lời được cho câu hỏi "Tôi là
     ai?!", hiểu về bản thân, định hướng phát triển cá nhân cũng như sự nghiệp,
     hướng đến sự hạnh phúc thông qua các Trại huấn luyện, các giờ Tham vấn 1-1,
-    các bài viết.
+    các bài viết và việc xuất bản.
   title: mCoaching - Huấn luyện Phát triển Cá nhân
 ---
 ## Các hoạt động chính của chúng tôi
@@ -29,7 +29,7 @@ meta:
 * #### [Trại 01 Nguyên mẫu Nam tính](https://www.facebook.com/groups/traiso01)
 * #### [Fanpage](https://www.facebook.com/nguyenmaunamtinh.mcoaching)
 * #### [Group](https://www.facebook.com/groups/mcoaching)
-* #### [Youtube Channel](https://www.youtube.com/user/Thiensudohoi)
+* #### [Youtube Channel](https://www.youtube.com/mcoaching)
 * #### Blog
 
 ## Giới thiệu về blog
