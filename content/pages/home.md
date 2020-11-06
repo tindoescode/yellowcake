@@ -32,4 +32,4 @@ meta:
 
 ## Giới thiệu về blog
 
-Blog mcoaching.wiki là kênh truyền thông chính thức của mCoaching trong việc giới thiệu, lan toả những giá trị mà mCoaching muốn hướng tới.
+Blog mcoaching.wiki là kênh truyền thông chính thức của mCoaching trong việc giới thiệu, lan toả những giá trị mà mCoaching hướng tới.

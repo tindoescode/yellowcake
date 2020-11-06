@@ -1,7 +1,10 @@
 siteTitle: mCoaching - Huấn luyện Phát triển Cá nhân
 siteUrl: https://www.mcoaching.com
-siteDescription: A starter project for creating lightning-fast websites with
-  Gatsby v2 Netlify CMS v2 and Uploadcare media library.
+siteDescription: 'mCoaching là một dự án với mục tiêu giúp đỡ đàn ông Việt Nam
+  từ 16 đến 30 tuổi tìm lại được chính mình, trả lời được câu hỏi "Tôi là ai?!",
+  hiểu về bản thân, định hướng phát triển cá nhân cũng như sự nghiệp, hướng đến
+  sự hạnh phúc thông qua các hoạt động, chương trình: Trại huấn luyện, Tham vấn
+  1-1, các bài viết và việc xuất bản.'
 socialMediaCard:
-  image: https://ucarecdn.com/501fc79e-aba0-42a4-8cf6-0a7d6de8a859/
+  image: https://ucarecdn.com/b281d883-8946-4986-8c16-f0573e5dd408/
 googleTrackingId: G-TP44MHS8CR
