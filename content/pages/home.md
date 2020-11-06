@@ -9,9 +9,7 @@ subtitle: >-
 
   mCoaching là một dự án được Tôi ấp ủ từ rất lâu, với mục tiêu giúp đỡ đàn ông Việt Nam từ 16 đến 30 tuổi tìm lại được chính mình, trả lời được câu hỏi "Tôi là ai?!", hiểu về bản thân, định hướng phát triển cá nhân cũng như sự nghiệp, hướng đến sự hạnh phúc thông qua các hoạt động, chương trình: Trại huấn luyện, Tham vấn 1-1, các bài viết và xuất bản.
 section2: >-
-  ## Giới thiệu về hành trình nguyên mẫu nam tính
-
-
+  ## Giới thiệu về Hành trình Nguyên mẫu Nam tính
 
 
   <iframe width="640" height="360" src="https://www.youtube.com/embed/bgVfwYz3CLo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
