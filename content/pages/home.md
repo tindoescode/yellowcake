@@ -24,11 +24,11 @@ meta:
 ---
 ## Các hoạt động chính của chúng tôi
 
-* #### [Trại 01 Nguyên mẫu Nam tính](https://www.facebook.com/groups/traiso01)
-* #### [Fanpage](https://www.facebook.com/nguyenmaunamtinh.mcoaching)
-* #### [Group](https://www.facebook.com/groups/mcoaching)
-* #### [Youtube Channel](https://www.youtube.com/mcoaching)
-* #### Blog
+* [Trại 01 Nguyên mẫu Nam tính](https://www.facebook.com/groups/traiso01)
+* [Fanpage](https://www.facebook.com/nguyenmaunamtinh.mcoaching)
+* [Group](https://www.facebook.com/groups/mcoaching)
+* [Youtube Channel](https://www.youtube.com/mcoaching)
+* Blog
 
 ## Giới thiệu về blog
 
