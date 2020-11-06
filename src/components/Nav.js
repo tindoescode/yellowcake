@@ -92,7 +92,7 @@ export class Navigation extends Component {
                 aria-label="Navigation"
                 role="button"
               >
-                Blog <span role="img" aria-label="star">✨</span>
+                Bài viết <span role="img" aria-label="star">✨</span>
                 <div className="Nav--GroupLinks">
                   <NavLink to="/blog/" className="Nav--GroupLink">
                     Tất cả bài viết
