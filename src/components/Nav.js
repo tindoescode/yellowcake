@@ -113,7 +113,7 @@ export class Navigation extends Component {
             <NavLink to="/contact/">Liên hệ</NavLink>
             <a className="NavLink" rel="noreferrer" target="_blank" title="Go to mCoaching group" href="https://www.facebook.com/groups/mcoaching">Group</a>
             <a className="NavLink" rel="noreferrer" target="_blank" title="Go to mCoaching fanpage" href="https://www.facebook.com/nguyenmaunamtinh.mcoaching">Fanpage</a>
-            <a className="NavLink" rel="noreferrer" target="_blank" title="Go to mCoaching youtube channel" href="https://www.youtube.com/user/Thiensudohoi">Youtube Channel</a>
+            <a className="NavLink" rel="noreferrer" target="_blank" title="Go to mCoaching youtube channel" href="https://www.youtube.com/user/mcoaching">Youtube Channel</a>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
