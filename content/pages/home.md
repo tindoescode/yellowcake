@@ -7,7 +7,7 @@ subtitle: >-
   **Tôi là Mĩ, là founder của mCoaching,**
 
 
-  mCoaching là một dự án được tôi ấp ủ từ rất lâu, với mục tiêu giúp đỡ đàn ông Việt Nam từ 16 đến 30 tuổi tìm lại được chính mình, trả lời được câu hỏi "Tôi là ai?!", hiểu về bản thân, định hướng phát triển cá nhân cũng như sự nghiệp, hướng đến sự hạnh phúc thông qua các chương trình, hoạt động: Trại huấn luyện, Tham vấn 1-1, các bài viết và xuất bản.
+  mCoaching là một dự án được Tôi ấp ủ từ rất lâu, với mục tiêu giúp đỡ đàn ông Việt Nam từ 16 đến 30 tuổi tìm lại được chính mình, trả lời được câu hỏi "Tôi là ai?!", hiểu về bản thân, định hướng phát triển cá nhân cũng như sự nghiệp, hướng đến sự hạnh phúc thông qua các hoạt động, chương trình: Trại huấn luyện, Tham vấn 1-1, các bài viết và xuất bản.
 section2: >-
   ## Giới thiệu về hành trình nguyên mẫu nam tính
 
@@ -20,7 +20,7 @@ meta:
   description: 'mCoaching là một dự án với mục tiêu giúp đỡ đàn ông Việt Nam từ 16
     đến 30 tuổi tìm lại được chính mình, trả lời được câu hỏi "Tôi là ai?!",
     hiểu về bản thân, định hướng phát triển cá nhân cũng như sự nghiệp, hướng
-    đến sự hạnh phúc thông qua các chương trình, hoạt động: Trại huấn luyện,
+    đến sự hạnh phúc thông qua các hoạt động, chương trình: Trại huấn luyện,
     Tham vấn 1-1, các bài viết và việc xuất bản.'
   title: mCoaching - Huấn luyện Phát triển Cá nhân
 ---
