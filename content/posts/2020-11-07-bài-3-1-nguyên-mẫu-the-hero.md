@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "BÀI 3.1: Nguyên mẫu The Hero"
+title: "BÀI 3.2: Nguyên mẫu The Hero"
 status: Published
 date: 2020-11-07
 featuredImage: /media/bai_3_2.png
