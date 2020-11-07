@@ -15,7 +15,7 @@ categories:
 meta:
   canonicalLink: https://www.facebook.com/photo?fbid=3555568351130233&set=g.341609527284067
 ---
-![](/images/bai_2_2.png)
+![](/media/bai_2_2.png)
 
 ## **2. The Precocious Child**
 

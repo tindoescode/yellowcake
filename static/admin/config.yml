@@ -6,7 +6,7 @@ backend:
 
 display_url: https://mcoaching.wiki # This url will display in the top-right of the CMS
 media_folder: "static/media"
-public_folder: "/images"
+public_folder: "/media"
 
 # media_library:
 #   name: uploadcare
