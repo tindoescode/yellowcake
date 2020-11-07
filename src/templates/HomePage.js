@@ -55,7 +55,7 @@ export const HomePageTemplate = ({
     {!!posts.length && (
       <section className="section">
         <div className="container">
-          <h1><span>☠</span>️ Bài viết mới</h1>
+          <h2><span>☠</span>️ Bài viết mới</h2>
           <PostSection posts={filteredPosts} />
         </div>
       </section>
