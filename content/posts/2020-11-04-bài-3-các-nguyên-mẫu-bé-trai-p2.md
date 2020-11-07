@@ -3,7 +3,7 @@ template: SinglePost
 title: "BÀI 3.1: Nguyên mẫu Oedipal Child"
 status: Published
 date: 2020-11-05
-featuredImage: /media/bai_3_1.png
+featuredImage: /media/bai_3_1-1-.png
 excerpt: >
   BỐN NGUYÊN MẪU NAM TÍNH TRƯỞNG THÀNH
 
@@ -15,7 +15,7 @@ excerpt: >
 categories:
   - category: Nguyên mẫu Nam tính
 ---
-![](/media/bai_3_1.png)
+![](/media/bai_3_1-1-.png)
 
 **3. Oedipal Child**
 
