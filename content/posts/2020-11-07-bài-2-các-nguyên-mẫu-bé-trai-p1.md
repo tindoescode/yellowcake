@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "BÀI 2: Các Nguyên mẫu bé trai (P1)"
+title: "BÀI 2.2: Nguyên mẫu The Precocious Child"
 status: Published
 date: 2020-11-07
 featuredImage: /media/bai_2_2.png
