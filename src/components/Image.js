@@ -64,7 +64,11 @@ class Image extends React.Component {
       alt = '',
       lazy = true
     } = this.props
-
+    
+    // I don't know why src is wrong, this is a temparate way to fix that
+    if(src.includes('../../static/')) {
+      src = src.slice(12);
+    }
     const isUploadcare = this.checkIsUploadcare(src),
       fullImage = !isUploadcare || !lazy
 

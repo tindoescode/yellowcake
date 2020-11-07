@@ -88,7 +88,6 @@ export const SinglePostTemplate = ({
     </article>
     <section className="section skinny light">
       <div className="container">
-        {console.log(slug)}
         <FacebookProvider appId="648530972698525">
           <Comments width="100%" href={slug} />
         </FacebookProvider>
