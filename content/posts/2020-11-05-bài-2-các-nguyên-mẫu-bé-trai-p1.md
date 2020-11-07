@@ -3,7 +3,7 @@ template: SinglePost
 title: "BÀI 2: Các Nguyên mẫu bé trai (P1)"
 status: Published
 date: 2020-11-05
-featuredImage: https://ucarecdn.com/6522a21d-f92b-4cb6-a3aa-897845c0ef23/
+featuredImage: /media/bai_2_1.png
 excerpt: Để hiểu bốn nguyên mẫu của nam tính trưởng thành, trước tiên chúng ta
   cần khám phá tiền thân của chúng. Có bốn nguyên mẫu thời niên thiếu phát triển
   thành các nguyên mẫu nam tính. Tiếp cận và khai thác năng lượng của chúng đúng
@@ -15,7 +15,7 @@ categories:
 meta:
   canonicalLink: https://www.facebook.com/photo?fbid=3555568351130233&set=g.341609527284067
 ---
-![](https://ucarecdn.com/ea88847a-61d8-40c0-bf04-307696645c6b/)
+![](/media/bai_2_1.png)
 
 Để hiểu bốn nguyên mẫu của nam tính trưởng thành, trước tiên chúng ta cần khám phá tiền thân của chúng. Có bốn nguyên mẫu thời niên thiếu phát triển thành các nguyên mẫu nam tính. Tiếp cận và khai thác năng lượng của chúng đúng cách là điều cần thiết cho sự phát triển toàn diện của một cậu bé. Những nguyên mẫu này truyền cho các bé trai cảm giác kỳ diệu, vui chơi và những đặc điểm năng lượng cần thiết cho việc học tập và phát triển.
 
