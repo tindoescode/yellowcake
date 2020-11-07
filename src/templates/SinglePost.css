@@ -1,12 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
 .SinglePost {
   background: var(--lightGrey);
 }
 
 .SinglePost--BackButton {
-  color: white;
+  color: black;
   position: relative;
-  display: flex;
-  align-items: center;
+  display: block;
   font-weight: 600;
   text-decoration: none;
   letter-spacing: 0.1em;
@@ -25,12 +26,15 @@
 
 .SinglePost--Content {
   background: white;
-  padding: 8rem 8rem 4rem 8rem;
+  font-family: "Noto Serif", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  padding: 8rem 0rem 5rem 0rem;
+  font-size: 17px;
+  line-height: 180%;
 }
 
 @media screen and (max-width: 750px) {
   .SinglePost--Content {
-    padding: 4rem 2rem;
+    padding: 4rem 1.5rem;
   }
 }
 
@@ -50,7 +54,7 @@
 }
 
 .SinglePost--InnerContent {
-  padding: 0 8rem;
+  padding: 0 2rem;
 }
 
 @media screen and (max-width: 750px) {
@@ -60,7 +64,7 @@
 }
 
 .SinglePost--Pagination {
-  margin: 4rem 0 0 0;
+  margin: 0 2rem;
   display: flex;
   align-items: center;
   justify-content: space-between;

@@ -6,7 +6,7 @@
   --darkGrey: #272727;
   --danger: #ff3d3d;
   --font-primary: 'Open Sans', sans-serif;
-  --font-system: system-ui; /* postcssPresetEnv */
+  --font-system: system-ui, serif; /* postcssPresetEnv */
   --borderRadius: 3px;
 }
 

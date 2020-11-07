@@ -7,92 +7,117 @@ import { FacebookProvider, Comments } from 'react-facebook'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
+import { Container, Row, Col } from 'cherry-grid'
 
 export const SinglePostTemplate = ({
   title,
   date,
   body,
   nextPostURL,
+  nextPostTitle,
   prevPostURL,
+  prevPostTitle,
   slug,
   categories = []
 }) => (
-  <main>
-    <article
-      className="SinglePost section light"
-      itemScope
-      itemType="http://schema.org/BlogPosting"
-    >
-      <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/blog/">
-          <ChevronLeft /> BACK
-        </Link>
-        <div className="SinglePost--Content relative">
-          <div className="SinglePost--Meta">
-            {date && (
-              <time
-                className="SinglePost--Meta--Date"
-                itemProp="dateCreated pubdate datePublished"
-                date={date}
-              >
-                {date}
-              </time>
-            )}
-            {categories && (
-              <Fragment>
-                <span>|</span>
-                {categories.map((cat, index) => (
-                  <span
-                    key={cat.category}
-                    className="SinglePost--Meta--Category"
+  <main className="SinglePost">
+    <Container className="" child>
+      <Row>
+        <Col>
+          <Link className="SinglePost--BackButton" to="/blog/">
+            <ChevronLeft /> BACK
+          </Link>
+        </Col>
+      </Row>
+      <Row>
+      <Col md={8} xs={12}>
+        <article
+          className="section light"
+          itemScope
+          itemType="http://schema.org/BlogPosting"
+        >
+          <div className="">
+            <div className="SinglePost--Content relative">
+              <div className="SinglePost--Meta">
+                {date && (
+                  <time
+                    className="SinglePost--Meta--Date"
+                    itemProp="dateCreated pubdate datePublished"
+                    date={date}
                   >
-                    {cat.category}
-                    {/* Add a comma on all but last category */}
-                    {index !== categories.length - 1 ? ',' : ''}
-                  </span>
-                ))}
-              </Fragment>
-            )}
-          </div>
+                    {date}
+                  </time>
+                )}
+                {categories && (
+                  <Fragment>
+                    <span>|</span>
+                    {categories.map((cat, index) => (
+                      <span
+                        key={cat.category}
+                        className="SinglePost--Meta--Category"
+                      >
+                        {cat.category}
+                        {/* Add a comma on all but last category */}
+                        {index !== categories.length - 1 ? ',' : ''}
+                      </span>
+                    ))}
+                  </Fragment>
+                )}
+              </div>
 
-          {title && (
-            <h1 className="SinglePost--Title" itemProp="title">
-              {title}
-            </h1>
-          )}
+              {title && (
+                <h1 className="SinglePost--Title" itemProp="title">
+                  {title}
+                </h1>
+              )}
 
-          <div className="SinglePost--InnerContent">
-            <Content source={body} />
-          </div>
+              <div className="SinglePost--InnerContent">
+                <Content source={body} />
+              </div>
 
-          <div className="SinglePost--Pagination">
-            {prevPostURL && (
-              <Link
-                className="SinglePost--Pagination--Link prev"
-                to={prevPostURL}
-              >
-                Previous Post
-              </Link>
-            )}
-            {nextPostURL && (
-              <Link
-                className="SinglePost--Pagination--Link next"
-                to={nextPostURL}
-              >
-                Next Post
-              </Link>
-            )}
+              <div className="SinglePost--Pagination">
+                {prevPostURL && (
+                  <Link
+                    className="SinglePost--Pagination--Link prev"
+                    to={prevPostURL}
+                  >
+                    Previous Post: {prevPostTitle}
+                  </Link>
+                )}
+                {nextPostURL && (
+                  <Link
+                    className="SinglePost--Pagination--Link next"
+                    to={nextPostURL}
+                  >
+                    Next Post: {nextPostTitle}
+                  </Link>
+                )}
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
-    </article>
-    <section className="section skinny light">
-      <div className="container">
-        <FacebookProvider appId="648530972698525">
-          <Comments width="100%" href={slug} />
-        </FacebookProvider>
-      </div>
-    </section>
+        </article>
+      </Col>
+      <Col md={4} xs={12}>
+        <Container>
+          <section className="section light">
+            <h2>Bài viết tương tự</h2>
+          </section>
+        </Container>
+      </Col>
+      </Row>
+      <Container>
+        <Row>
+          <Col xs={12} md={12}>
+          <section>
+            <FacebookProvider appId="648530972698525">
+              <Comments width="100%" href={slug} />
+            </FacebookProvider>
+          </section>
+          </Col>
+        </Row>
+      </Container>
+    </Container>
+
   </main>
 )
 
@@ -109,7 +134,9 @@ const SinglePost = ({ data: { post, allPosts } }) => {
         {...post.frontmatter}
         body={post.html}
         nextPostURL={_get(thisEdge, 'next.fields.slug')}
+        nextPostTitle={_get(thisEdge, 'next.frontmatter.title')}
         prevPostURL={_get(thisEdge, 'previous.fields.slug')}
+        prevPostTitle={_get(thisEdge, 'previous.frontmatter.title')}
       />
     </Layout>
   )
