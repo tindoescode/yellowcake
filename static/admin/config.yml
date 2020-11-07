@@ -2,18 +2,22 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+  use_large_media_transforms_in_media_library: false
 
 display_url: https://mcoaching.wiki # This url will display in the top-right of the CMS
-media_library:
-  name: uploadcare
-  config:
-    publicKey: 6bcba3f6eff14772d6bc
-    multiple: false
-    tabs: 'file camera url facebook gdrive'
-    effects: 'crop,rotate,enhance,grayscale'
-    imageShrink: '2000x2000'
-    previewStep: true
-    clearable: true
+media_folder: "static/media"
+public_folder: "/media"
+
+# media_library:
+#   name: uploadcare
+#   config:
+#     publicKey: 6bcba3f6eff14772d6bc
+#     multiple: false
+#     tabs: 'file camera url facebook gdrive'
+#     effects: 'crop,rotate,enhance,grayscale'
+#     imageShrink: '2000x2000'
+#     previewStep: true
+#     clearable: true
 
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
