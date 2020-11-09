@@ -21,7 +21,7 @@ export const SinglePostTemplate = ({
   categories = []
 }) => (
   <main className="SinglePost">
-    <Container className="" child>
+    <Container>
       <Row>
         <Col>
           <Link className="SinglePost--BackButton" to="/blog/">
