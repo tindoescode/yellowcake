@@ -8,9 +8,10 @@ import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
 import { Container, Row, Col } from 'cherry-grid'
-import SimilarPost from '../components/SimilarPost'
+import RandomPosts from '../components/RandomPosts'
 
 export const SinglePostTemplate = ({
+  randomPosts,
   title,
   date,
   body,
@@ -81,7 +82,7 @@ export const SinglePostTemplate = ({
                   className="SinglePost--Pagination--Link prev"
                   to={prevPostURL}
                 >
-                  Previous Post: {prevPostTitle}
+                  Bài trước: {prevPostTitle}
                 </Link>
               )}
               {nextPostURL && (
@@ -89,7 +90,7 @@ export const SinglePostTemplate = ({
                   className="SinglePost--Pagination--Link next"
                   to={nextPostURL}
                 >
-                  Next Post: {nextPostTitle}
+                  Bài sau: {nextPostTitle}
                 </Link>
               )}
             </div>
@@ -101,8 +102,8 @@ export const SinglePostTemplate = ({
           <section className="section light">
             <div className="SinglePost--Content">
               <div className="SinglePost--InnerContent">
-                <h2>Bài viết tương tự</h2>
-                <SimilarPost />
+                {console.log(randomPosts)}
+                <RandomPosts posts={randomPosts} />
               </div>
             </div>
           </section>
@@ -127,6 +128,8 @@ export const SinglePostTemplate = ({
 
 // Export Default SinglePost for front-end
 const SinglePost = ({ data: { post, allPosts } }) => {
+  const randomPosts = allPosts.edges.map(value => value.node)
+
   const thisEdge = allPosts.edges.find(edge => edge.node.id === post.id)
   return (
     <Layout
@@ -134,6 +137,7 @@ const SinglePost = ({ data: { post, allPosts } }) => {
       title={post.frontmatter.title || false}
     >
       <SinglePostTemplate
+        randomPosts={randomPosts}
         {...post}
         {...post.frontmatter}
         body={post.html}
@@ -176,7 +180,18 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          id
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            date
+            categories {
+              category
+            }
+            featuredImage
+          }
         }
         next {
           fields {

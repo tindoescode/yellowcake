@@ -112,9 +112,7 @@ module.exports = {
       }
     },
     // css (replace with gatsby-plugin-sass for v2)
-    {
-      resolve: `gatsby-plugin-sass`,
-    },
+    'gatsby-plugin-sass',
     {
       resolve: 'gatsby-plugin-nprogress',
       options: {
