@@ -8,6 +8,7 @@ import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
 import { Container, Row, Col } from 'cherry-grid'
+import SimilarPost from '../components/SimilarPost'
 
 export const SinglePostTemplate = ({
   title,
@@ -36,63 +37,61 @@ export const SinglePostTemplate = ({
           itemScope
           itemType="http://schema.org/BlogPosting"
         >
-          <div className="">
-            <div className="SinglePost--Content relative">
-              <div className="SinglePost--Meta">
-                {date && (
-                  <time
-                    className="SinglePost--Meta--Date"
-                    itemProp="dateCreated pubdate datePublished"
-                    date={date}
-                  >
-                    {date}
-                  </time>
-                )}
-                {categories && (
-                  <Fragment>
-                    <span>|</span>
-                    {categories.map((cat, index) => (
-                      <span
-                        key={cat.category}
-                        className="SinglePost--Meta--Category"
-                      >
-                        {cat.category}
-                        {/* Add a comma on all but last category */}
-                        {index !== categories.length - 1 ? ',' : ''}
-                      </span>
-                    ))}
-                  </Fragment>
-                )}
-              </div>
-
-              {title && (
-                <h1 className="SinglePost--Title" itemProp="title">
-                  {title}
-                </h1>
+          <div className="SinglePost--Content relative">
+            <div className="SinglePost--Meta">
+              {date && (
+                <time
+                  className="SinglePost--Meta--Date"
+                  itemProp="dateCreated pubdate datePublished"
+                  date={date}
+                >
+                  {date}
+                </time>
               )}
+              {categories && (
+                <Fragment>
+                  <span>|</span>
+                  {categories.map((cat, index) => (
+                    <span
+                      key={cat.category}
+                      className="SinglePost--Meta--Category"
+                    >
+                      {cat.category}
+                      {/* Add a comma on all but last category */}
+                      {index !== categories.length - 1 ? ',' : ''}
+                    </span>
+                  ))}
+                </Fragment>
+              )}
+            </div>
 
-              <div className="SinglePost--InnerContent">
-                <Content source={body} />
-              </div>
+            {title && (
+              <h1 className="SinglePost--Title" itemProp="title">
+                {title}
+              </h1>
+            )}
 
-              <div className="SinglePost--Pagination">
-                {prevPostURL && (
-                  <Link
-                    className="SinglePost--Pagination--Link prev"
-                    to={prevPostURL}
-                  >
-                    Previous Post: {prevPostTitle}
-                  </Link>
-                )}
-                {nextPostURL && (
-                  <Link
-                    className="SinglePost--Pagination--Link next"
-                    to={nextPostURL}
-                  >
-                    Next Post: {nextPostTitle}
-                  </Link>
-                )}
-              </div>
+            <div className="SinglePost--InnerContent">
+              <Content source={body} />
+            </div>
+
+            <div className="SinglePost--Pagination">
+              {prevPostURL && (
+                <Link
+                  className="SinglePost--Pagination--Link prev"
+                  to={prevPostURL}
+                >
+                  Previous Post: {prevPostTitle}
+                </Link>
+              )}
+              {nextPostURL && (
+                <Link
+                  className="SinglePost--Pagination--Link next"
+                  to={nextPostURL}
+                >
+                  Next Post: {nextPostTitle}
+                </Link>
+              )}
             </div>
           </div>
         </article>
@@ -100,7 +99,12 @@ export const SinglePostTemplate = ({
       <Col md={4} xs={12}>
         <Container>
           <section className="section light">
-            <h2>Bài viết tương tự</h2>
+            <div className="SinglePost--Content">
+              <div className="SinglePost--InnerContent">
+                <h2>Bài viết tương tự</h2>
+                <SimilarPost />
+              </div>
+            </div>
           </section>
         </Container>
       </Col>
