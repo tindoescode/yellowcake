@@ -1,0 +1,11 @@
+.ChatRoom {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 1000;
+    width: 30%;
+
+    &--Invisible {
+        display: none;
+    }
+}
