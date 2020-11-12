@@ -166,7 +166,7 @@ class Form extends React.Component {
           <input type="hidden" name="form-name" value={name} />
           <input
             className="Button Form--SubmitButton"
-            type="submitg
+            type="submit"
             value="Hỏi"
             disabled={this.state.disabled}
           />
