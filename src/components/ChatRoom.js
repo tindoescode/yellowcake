@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
+import MessageCircle from 'react-feather/dist/icons/message-circle'
 
 const ChatRoom = () => {
     const [visible, setVisible] = useState(0);
 
     return (<div className="ChatRoom">
         <div className="ChatRoom--Flex">
-        <button className="ChatRoom--ToggleButton" onClick={() => setVisible(!visible)}>Toggle Chatroom</button>
         </div>
             <iframe 
                 className={`${visible ? "" : "ChatRoom--Invisible"} ChatRoom--Inner`} 
@@ -18,6 +18,9 @@ const ChatRoom = () => {
                 >
 
             </iframe>
+            <div className="ChatRoom--Nav">
+                <MessageCircle className="ChatRoom--Icon" size={50} onClick={() => setVisible(!visible)} />
+            </div>
     </div>);
 }
 

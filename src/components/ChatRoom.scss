@@ -1,19 +1,27 @@
 .ChatRoom {
     position: fixed;
+    display: flex;
+    flex-direction: column;
     bottom: 0;
     right: 0;
+    margin: 1rem;
     z-index: 1000;
 
     &--Invisible {
         display: none;
     }
-    &--ToggleButton {
-        justify-content: flex-end;
+    &--Nav {
+        align-self: flex-end;
     }
     &--Flex {
         display: flex;
     }
-
+    &--Icon {
+        border-radius: 30px;
+        padding: 0.7rem;
+        background: #ff4646;
+        color: white;
+    }
     &--Inner {
         max-width:90vw;
         max-height:75vh;
