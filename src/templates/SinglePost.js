@@ -102,7 +102,7 @@ export const SinglePostTemplate = ({
           <section className="section light">
             <div className="SinglePost--Content">
               <div className="SinglePost--InnerContent">
-                {console.log(randomPosts)}
+                {/* {console.log(randomPosts)} */}
                 <RandomPosts posts={randomPosts} />
               </div>
             </div>
