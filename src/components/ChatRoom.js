@@ -8,13 +8,14 @@ const ChatRoom = () => {
         <button onClick={() => setVisible(!visible)}>Toggle Chatroom</button>
         </div>
             <iframe 
-                className={visible ? "" : "ChatRoom--Invisible"} 
+                className={visible ? "" : "ChatRoom--Invisible" + " " + "ChatRoom--Inner"} 
                 frameborder="0" 
                 title="chatroom" 
                 src="https://minnit.chat/mcoachingpublic?embed&&language=vi&nickname=" 
                 width='1000' 
                 height='500' 
-                allowtransparency="true">
+                allowtransparency="true"
+                >
 
             </iframe>
     </div>);
