@@ -3,7 +3,7 @@ template: SinglePost
 title: "Bài 4: NGUYÊN MẪU THE LOVER CỦA NAM TÍNH TRƯỞNG THÀNH"
 status: Published
 date: 2020-11-05
-featuredImage: https://ucarecdn.com/d361c5b9-948c-4e9a-899e-ead81eb9aec2/
+featuredImage: /media/bai_4.png
 excerpt: >
   Đây là phần thứ ba của series về nguyên mẫu nam tính trưởng thành dựa trên
   cuốn sách “King, Warrior, Magician, Lover” của Robert Moore và Douglas
