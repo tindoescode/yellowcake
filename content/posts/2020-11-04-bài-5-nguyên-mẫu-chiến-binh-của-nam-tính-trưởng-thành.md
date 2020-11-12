@@ -3,7 +3,7 @@ template: SinglePost
 title: "Bài 5: NGUYÊN MẪU CHIẾN BINH CỦA NAM TÍNH TRƯỞNG THÀNH"
 status: Published
 date: 2020-11-04
-featuredImage: https://ucarecdn.com/47eef0bd-983b-4964-965f-d3b19502edde/
+featuredImage: /media/bai_5.png
 excerpt: >
   Mỗi nền văn minh vĩ đại đều gắn liền với truyền thống chiến đấu và những chiến
   binh huyền thoại đi kèm. Kinh Cựu Ước kể rằng, người Sparta sinh sống ở vùng

@@ -3,7 +3,7 @@ template: SinglePost
 title: BÀI 7 - NGUYÊN MẪU NHÀ VUA CỦA NAM TÍNH TRƯỞNG THÀNH
 status: Published
 date: 2020-11-03
-featuredImage: https://ucarecdn.com/433cf9f8-0dba-437f-9cb5-3d02d5cfcb8e/
+featuredImage: /media/bai_7.png
 excerpt: Đây là phần thứ sáu và là phần cuối cùng của series về các nguyên mẫu
   của nam tính trưởng thành dựa trên cuốn sách “King, Warrior, Magician, Lover”
   của Robert Moore và Douglas Gillette.
