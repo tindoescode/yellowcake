@@ -3,7 +3,7 @@ template: SinglePost
 title: BÀI 6 - NGUYÊN MẪU MAGICIAN CỦA NAM TÍNH TRƯỞNG THÀNH
 status: Published
 date: 2020-11-03
-featuredImage: https://ucarecdn.com/94efcacb-f8b1-48a5-b63f-e31b24115599/
+featuredImage: /media/bai_6.png
 excerpt: >-
   Đây là phần thứ năm của series về nguyên mẫu của nam tính trưởng thành dựa
   trên cuốn sách King, Warrior, Magician, Lover của Robert Moore và Douglas
