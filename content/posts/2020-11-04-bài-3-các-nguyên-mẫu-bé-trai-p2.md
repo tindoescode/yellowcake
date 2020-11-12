@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "BÀI 3.1: Nguyên mẫu Oedipal Child"
+title: "BÀI 3-1: Nguyên mẫu Oedipal Child"
 status: Published
 date: 2020-11-05
 featuredImage: /media/bai_3_1-1-.png
