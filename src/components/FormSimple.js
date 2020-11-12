@@ -40,11 +40,11 @@ export default ({
         required
       >
         <option disabled hidden>
-          Type of Enquiry
+          Loại câu hỏi
         </option>
-        <option>Need to know more</option>
-        <option>Found a bug</option>
-        <option>Want to say hello</option>
+        <option>Muốn biết nhiều hơn</option>
+        <option>Gặp lỗi</option>
+        <option>Muốn nói lời chào</option>
       </select>
     </label>
     <label className='Form--Label'>
