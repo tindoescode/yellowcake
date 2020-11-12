@@ -48,6 +48,12 @@ body {
 
 a {
   color: var(--primary);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--secondary);
+  font-weight: bold;
 }
 
 strong {

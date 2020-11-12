@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Link } from 'gatsby';
 
 const ChatRoom = () => {
     const [visible, setVisible] = useState(0);
