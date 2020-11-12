@@ -4,15 +4,15 @@ const ChatRoom = () => {
     const [visible, setVisible] = useState(0);
 
     return (<div className="ChatRoom">
-        <div>
-        <button onClick={() => setVisible(!visible)}>Toggle Chatroom</button>
+        <div className="ChatRoom--Flex">
+        <button className="ChatRoom--ToggleButton" onClick={() => setVisible(!visible)}>Toggle Chatroom</button>
         </div>
             <iframe 
-                className={visible ? "" : "ChatRoom--Invisible" + " " + "ChatRoom--Inner"} 
+                className={`${visible ? "" : "ChatRoom--Invisible"} ChatRoom--Inner`} 
                 frameborder="0" 
                 title="chatroom" 
                 src="https://minnit.chat/mcoachingpublic?embed&&language=vi&nickname=" 
-                width='1000' 
+                width='700' 
                 height='500' 
                 allowtransparency="true"
                 >

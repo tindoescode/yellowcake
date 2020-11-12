@@ -7,9 +7,32 @@
     &--Invisible {
         display: none;
     }
+    &--ToggleButton {
+        justify-content: flex-end;
+    }
+    &--Flex {
+        display: flex;
+    }
 
     &--Inner {
-        width: 90%;
-        height: 500px;
+        max-width:90vw;
+        max-height:75vh;
+        width:400px;
+        height:500px;
+        min-height:300px;
     }
+}
+
+@media screen and (max-width: 750px) {
+  .ChatRoom--Inner {
+    max-width:75vw;
+    max-height:75vh;
+    width:350px;
+    height:500px;
+    min-height:300px;
+  }
+}
+
+.ChatRoom--Invisible {
+    display: none;
 }
