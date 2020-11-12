@@ -3,7 +3,7 @@ template: SinglePost
 title: "BÀI 1. NGUYÊN MẪU NAM TÍNH: GIỚI THIỆU"
 status: Published
 date: 2020-11-05
-featuredImage: https://ucarecdn.com/1d85ff38-4f03-4be5-b2fd-f767fd32cf10/
+featuredImage: /media/bai_1.png
 excerpt: >
   Bốn nguyên mẫu nam tính dựa trên nền tảng tâm lý học của Carl Jung. Để hiểu
   được, bạn sẽ cần hiểu một chút về tâm lý học Jungian.
