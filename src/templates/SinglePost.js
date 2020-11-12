@@ -114,7 +114,7 @@ export const SinglePostTemplate = ({
         <Row>
           <Col xs={12} md={12}>
           <section>
-            <FacebookProvider appId="648530972698525">
+            <FacebookProvider appId="379335180155337">
               <Comments width="100%" href={slug} />
             </FacebookProvider>
           </section>
