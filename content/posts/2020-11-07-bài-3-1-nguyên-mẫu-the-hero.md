@@ -13,6 +13,8 @@ excerpt: >
 
   trước khi đọc,
 categories:
+  - category: Nguyên mẫu Nam tính
+meta:
   title: "BÀI 3-2: Nguyên mẫu The Hero"
   description: >
     BỐN NGUYÊN MẪU NAM TÍNH TRƯỞNG THÀNH
@@ -22,7 +24,6 @@ categories:
     Sau đó đọc phần một ở đây: https://www.facebook.com/.../permalink/345169390261414/
 
     trước khi đọc,
-  category: Nguyên mẫu Nam tính
 ---
 ![](/media/bai_3_2.png)
 
