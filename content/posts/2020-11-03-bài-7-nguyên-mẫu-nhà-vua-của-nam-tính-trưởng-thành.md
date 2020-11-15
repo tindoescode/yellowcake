@@ -15,9 +15,7 @@ meta:
     mẫu của nam tính trưởng thành dựa trên cuốn sách “King, Warrior, Magician,
     Lover” của Robert Moore và Douglas Gillette.
 ---
-![king archetype](/media/bai_7.png "king archetype")
 
-### **BÀI 7 - NGUYÊN MẪU NHÀ VUA CỦA NAM TÍNH TRƯỞNG THÀNH**
 
 Đây là phần thứ sáu và là phần cuối cùng của series về các nguyên mẫu của nam tính trưởng thành dựa trên cuốn sách “King, Warrior, Magician, Lover” của Robert Moore và Douglas Gillette.
 
