@@ -1,6 +1,7 @@
 const _ = require('lodash')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
+const transliterate = require('@sindresorhus/transliterate');
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
@@ -88,6 +89,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       slug = `/${parsedFilePath.dir}/`
     }
 
+    slug = transliterate(slug);
     createNodeField({
       node,
       name: 'slug',
