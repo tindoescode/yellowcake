@@ -13,6 +13,13 @@ excerpt: Để hiểu bốn nguyên mẫu của nam tính trưởng thành, trư
 categories:
   - category: Nguyên mẫu Nam tính
 meta:
+  title: "BÀI 2-1: Nguyên mẫu The Divine Child"
+  description: Để hiểu bốn nguyên mẫu của nam tính trưởng thành, trước tiên chúng ta
+    cần khám phá tiền thân của chúng. Có bốn nguyên mẫu thời niên thiếu phát triển
+    thành các nguyên mẫu nam tính. Tiếp cận và khai thác năng lượng của chúng đúng
+    cách là điều cần thiết cho sự phát triển toàn diện của một cậu bé. Những
+    nguyên mẫu này truyền cho các bé trai cảm giác kỳ diệu, vui chơi và những đặc
+    điểm năng lượng cần thiết cho việc học tập và phát triển.
   canonicalLink: https://www.facebook.com/photo?fbid=3555568351130233&set=g.341609527284067
 ---
 ![](/media/bai_2_1.png)

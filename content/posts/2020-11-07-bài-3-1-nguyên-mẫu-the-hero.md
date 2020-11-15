@@ -13,7 +13,16 @@ excerpt: >
 
   trước khi đọc,
 categories:
-  - category: Nguyên mẫu Nam tính
+  title: "BÀI 3-2: Nguyên mẫu The Hero"
+  description: >
+    BỐN NGUYÊN MẪU NAM TÍNH TRƯỞNG THÀNH
+
+    Nếu bạn là người mới, bạn đọc bài giới thiệu ở đây trước nhé: https://www.facebook.com/.../permalink/343998637045156/
+
+    Sau đó đọc phần một ở đây: https://www.facebook.com/.../permalink/345169390261414/
+
+    trước khi đọc,
+  category: Nguyên mẫu Nam tính
 ---
 ![](/media/bai_3_2.png)
 
