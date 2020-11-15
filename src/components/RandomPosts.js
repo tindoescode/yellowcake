@@ -4,7 +4,7 @@ import './RandomPosts.scss'
 
 const RandomPosts = ({posts}) => {
     return (<div className="RandomPosts">
-        {posts.map(post => <div className="RandomPosts--Item">
+        {posts.map((post, index) => <div className="RandomPosts--Item" key={index}>
             {/* <div className="RandomPosts--Thumbnail"> */}
                 {/* <Image 
                     src={post.frontmatter.featuredImage}

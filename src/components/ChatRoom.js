@@ -9,7 +9,7 @@ const ChatRoom = () => {
         </div>
             <iframe 
                 className={`${visible ? "" : "ChatRoom--Invisible"} ChatRoom--Inner`} 
-                frameborder="0" 
+                frameBorder="0" 
                 title="chatroom" 
                 src="https://minnit.chat/mcoachingpublic?embed&&language=vi&nickname=" 
                 width='700' 

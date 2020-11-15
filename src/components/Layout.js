@@ -67,7 +67,6 @@ export default ({ children, meta, title }) => {
               googleTrackingId={googleTrackingId}
               absoluteImageUrl={
                 socialMediaCard &&
-                socialMediaCard.image &&
                 socialMediaCard.image
               }
               {...meta}
