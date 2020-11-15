@@ -14,6 +14,13 @@ excerpt: >
   trước khi đọc,
 categories:
   - category: Nguyên mẫu Nam tính
+meta:
+  title: "BÀI 3-1: Nguyên mẫu Oedipal Child"
+  description: Moore lập luận rằng khao khát của một cậu bé về “sự nuôi dưỡng, tốt
+    lành vô hạn, người mẹ xinh đẹp vô hạn” là gốc rễ của nguyên mẫu này. Nhưng
+    niềm khao khát này không phải dành cho người mẹ thực sự của một cậu bé, mà
+    là vì năng lượng nữ tính của “Người mẹ vĩ đại – Nữ thần mang nhiều hình dáng
+    trong thần thoại và truyền thuyết của nhiều dân tộc và nền văn hóa”.
 ---
 ![](/media/bai_3_1-1-.png)
 
