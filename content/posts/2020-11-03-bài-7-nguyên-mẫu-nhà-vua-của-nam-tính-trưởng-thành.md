@@ -3,7 +3,7 @@ template: SinglePost
 title: BÀI 7 - NGUYÊN MẪU NHÀ VUA CỦA NAM TÍNH TRƯỞNG THÀNH
 status: Published
 date: 2020-11-03
-featuredImage: /media/bai_7.png
+featuredImage: /media/bai_6.png
 excerpt: Đây là phần thứ sáu và là phần cuối cùng của series về các nguyên mẫu
   của nam tính trưởng thành dựa trên cuốn sách “King, Warrior, Magician, Lover”
   của Robert Moore và Douglas Gillette.
@@ -15,7 +15,7 @@ meta:
     mẫu của nam tính trưởng thành dựa trên cuốn sách “King, Warrior, Magician,
     Lover” của Robert Moore và Douglas Gillette.
 ---
-![king archetype](https://ucarecdn.com/c74a1fa0-eb9e-4615-aebb-a12d12d6c30b/ "king archetype")
+![king archetype](/media/bai_7.png "king archetype")
 
 ### **BÀI 7 - NGUYÊN MẪU NHÀ VUA CỦA NAM TÍNH TRƯỞNG THÀNH**
 

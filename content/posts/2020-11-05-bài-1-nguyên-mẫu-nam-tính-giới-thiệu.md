@@ -44,6 +44,8 @@ Theo Moore, tâm lý nam tính được tạo thành từ bốn nguyên mẫu ch
 
 Moore cho rằng mỗi nguyên mẫu nam bao gồm ba phần: biểu hiện đầy đủ và cao nhất của nguyên mẫu (fullness) và hai bóng mờ rối loạn chức năng của nguyên mẫu. Để hiểu rõ hơn về điều này, Moore miêu tả mỗi nguyên mẫu là một hình tam giác. Dưới đây là một ví dụ về nguyên mẫu của King được minh họa như vậy:
 
+![Nguyên mẫu Nam tính - Nhà Vua](/media/king.jpg "Nguyên mẫu King ")
+
 Các góc dưới cùng của hình tam giác đại diện cho sự phân chia bóng lưỡng cực trong bản thân nguyên mẫu. Theo Moore, mục tiêu của mỗi người là dung hòa và tích hợp hai bóng lưỡng cực này để đạt được sự thể hiện đầy đủ nhất của nguyên mẫu được biểu diễn ở đỉnh của tam giác.
 
 Hơn nữa, mỗi nguyên mẫu đều có dạng trưởng thành và dạng chưa trưởng thành. Moore gọi các dạng trưởng thành của các nguyên mẫu nam tính là "Tâm lý đàn ông" (Man Psychology) và các dạng chưa trưởng thành là "Tâm lý bé trai" (Boy Psychology). Bốn nguyên mẫu nam tính trưởng thành mà chúng ta đã đề cập đến: King, Warrior, Magician, and Lover. Các nguyên mẫu thời thơ ấu chưa trưởng thành là the Divine Child, the Hero, the Precocious Child, and the Oedipal Child. Mỗi kiểu mẫu chưa trưởng thành này đều có cấu hình bộ ba giống như kiểu mẫu trưởng thành. Tất cả chúng đều có biểu hiện cao nhất và đầy đủ nhất cùng với hai bóng rối loạn chức năng tại hai cực của chúng.
@@ -51,6 +53,8 @@ Hơn nữa, mỗi nguyên mẫu đều có dạng trưởng thành và dạng ch
 Trước khi một cậu bé có thể tiếp cận nguyên mẫu King, cậu ta phải phát triển the Divine Child; trước khi có thể truy cập vào nguyên mẫu Warrior, anh ta phải phát triển nguyên mẫu the Hero; Vân vân và vân vân.
 
 Nghe có vẻ phức tạp, hình dưới đây có thể giúp bạn hình dung chúng tốt hơn.
+
+![Nguyên mẫu Nam tính](/media/kwml.jpg "4 Nguyên mẫu Nam tính")
 
 Khung *KWML* là một công cụ hữu ích để giúp bạn trở thành một người đàn ông tốt hơn. Mặc dù tôi không đồng ý với mọi thứ mà Moore đưa ra trong *KWML* , nhưng cá nhân tôi thấy khung này hữu ích trong việc khám phá và phát triển nam tính trưởng thành trong bản thân mình.
 
