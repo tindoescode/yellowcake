@@ -3,7 +3,7 @@ import { MapPin, Smartphone, Mail } from 'react-feather'
 import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
-import FormSimpleAjax from '../components/FormSimpleAjax'
+// import FormSimpleAjax from '../components/FormSimpleAjax'
 import Content from '../components/Content'
 // import GoogleMap from '../components/GoogleMap'
 import Layout from '../components/Layout'
@@ -18,7 +18,7 @@ export const ContactPageTemplate = ({
   address,
   phone,
   email,
-  // locations
+  locations
 }) => (
   <main className="Contact">
     <PageHeader
@@ -56,9 +56,9 @@ export const ContactPageTemplate = ({
           </div>
         </div>
 
-        <div>
+        {/* <div>
           <FormSimpleAjax name="Simple Form Ajax" />
-        </div>
+        </div> */}
       </div>
     </section>
 

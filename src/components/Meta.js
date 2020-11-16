@@ -28,12 +28,14 @@ export default class Meta extends Component {
       canonicalLink,
       siteTitle,
       siteDescription,
-      googleTrackingId
+      googleTrackingId,
+      featureImage
       // overwrite { title, description } if in fields or fields.meta
     } = this.props
 
     return (
       <Helmet>
+        {console.log(featureImage)}
         {title && <title>{title}</title>}
         {title && <meta property="og:title" content={title} />}
         {description && <meta name="description" content={description} />}
