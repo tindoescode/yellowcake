@@ -15,7 +15,7 @@ meta:
     mẫu của nam tính trưởng thành dựa trên cuốn sách “King, Warrior, Magician,
     Lover” của Robert Moore và Douglas Gillette.
 ---
-
+![](/media/bai_6.png)
 
 Đây là phần thứ sáu và là phần cuối cùng của series về các nguyên mẫu của nam tính trưởng thành dựa trên cuốn sách “King, Warrior, Magician, Lover” của Robert Moore và Douglas Gillette.
 
