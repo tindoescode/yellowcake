@@ -3,7 +3,7 @@ template: ComponentsPage
 slug: components
 title: Components Page
 featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components page subtitle.
+subtitle: Page này chứa các component hỗ trợ
 section1: >-
   ## This is a container component
 
