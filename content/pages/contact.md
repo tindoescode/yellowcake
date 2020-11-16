@@ -13,3 +13,7 @@ meta:
   title: Thông tin liên hệ
 ---
 # Mọi thắc mắc xin vui lòng gửi yêu cầu liên hệ hoặc theo thông tin bên dưới. Xin cảm ơn!
+
+
+
+**Update:** Form liên hệ hiện không hoạt động, bạn có thể liên hệ với mCoaching qua các trang mạng xã hội, hoặc thông tin liên hệ bên dưới.
