@@ -21,7 +21,7 @@ meta:
 
     Trong các bài viết trước về chủ đề này, tôi đã tập trung vào các nguyên mẫu của bé trai. Hôm nay chúng ta cùng xem xét nguyên mẫu đầu tiên của nam tính trưởng thành: The Lover.
 ---
-![](https://ucarecdn.com/7388e61c-3383-4f08-9faa-d9b2f9c877d4/)
+![](/media/bai_4.png)
 
 Đây là phần thứ ba của series về nguyên mẫu nam tính trưởng thành dựa trên cuốn sách “*King, Warrior, Magician, Lover*” của *Robert Moore* và *Douglas Gillette*.
 
@@ -51,7 +51,7 @@ Lover thường là nguyên mẫu đầu tiên phát triển ở một người 
 
 #### **THE SHADOWS - BÓNG ÂM**
 
-Hãy nhớ rằng mỗi nguyên mẫu có một đỉnh - biểu thị sự toàn vẹn của nguyên mẫu và một bóng đổ hai cực (cấu thành hình tam giác). Shadows là kết quả của việc nguyên mẫu không được hợp nhất một cách lành mạnh và mạch lạc trong một người đàn ông. Hai cực Shadow của nguyên mẫu Lover là ***Người tình nghiện ngập (Addicted Lover)** và **Người tình bất lực (Impotent Lover)***
+Hãy nhớ rằng mỗi nguyên mẫu có một đỉnh - biểu thị sự toàn vẹn của nguyên mẫu và một bóng đổ hai cực (cấu thành hình tam giác). Shadows là kết quả của việc nguyên mẫu không được hợp nhất một cách lành mạnh và mạch lạc trong một người đàn ông. Hai cực Shadow của nguyên mẫu Lover là **\*Người tình nghiện ngập (Addicted Lover)** và **Người tình bất lực (Impotent Lover)***
 
 ***Người tình nghiện ngập - Addicted Lover***
 
