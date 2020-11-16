@@ -16,7 +16,7 @@ meta:
     được, bạn sẽ cần hiểu một chút về tâm lý học Jungian.
   canonicalLink: https://www.facebook.com/photo?fbid=3546649028688832&set=g.341609527284067
 ---
-![](https://ucarecdn.com/5da73030-89c0-4451-873f-a3dabcf3348f/)
+![](/media/bai_1.png)
 
 Bốn nguyên mẫu nam tính dựa trên nền tảng tâm lý học của Carl Jung. Để hiểu được, bạn sẽ cần hiểu một chút về tâm lý học Jungian.
 
